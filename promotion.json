@@ -1,0 +1,13 @@
+[{
+  id: 1,
+  name: 'Khuyến mãi hè 2020',
+  image: 'http://bizweb.dktcdn.net/100/239/500/themes/576544/assets/slideshow_1.jpg?1586174955197'
+},{
+  id: 2,
+  name: 'Quốc khánh giảm giá sập sàn',
+  image: 'http://bizweb.dktcdn.net/100/239/500/themes/576544/assets/slideshow_2.jpg?1586174955197'
+},{
+  id: 3,
+  name: 'Mua đồ ăn tặng quần áo',
+  image: 'http://bizweb.dktcdn.net/100/239/500/themes/576544/assets/slideshow_3.jpg?1586174955197'
+}]
